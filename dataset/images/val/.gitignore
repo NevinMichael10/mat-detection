@@ -1,0 +1,18 @@
+# Train and Val images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.svg
+# Include empty train and val folders
+!images/train/.gitkeep
+!images/val/.gitkeep
+
+
