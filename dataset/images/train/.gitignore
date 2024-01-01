@@ -11,8 +11,5 @@
 *.gif
 *.bmp
 *.svg
-# Include empty train and val folders
-!images/train/.gitkeep
-!images/val/.gitkeep
 
 
